@@ -2,7 +2,7 @@
 
 Just wanna take a tour on github
 
-## Project explaination
+## Project explanation
 
 This is a general purpose project that aims at conveyed some basic skills for git and github
 
