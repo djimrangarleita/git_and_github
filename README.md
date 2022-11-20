@@ -1,15 +1,20 @@
 # git_and_github
+
 Just wanna take a tour on github
 
 ## Project explaination
+
 This is a general purpose project that aims at conveyed some basic skills for git and github
 
 ## Content
-### Files:
+
+### Files
+
 - index.html
 - script.js
 - LICENSE.md
 - README.md
 
-### Assets:
+### Assets
+
 Check the "assets" folder in this repo
